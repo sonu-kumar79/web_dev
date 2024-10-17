@@ -1,0 +1,23 @@
+*{
+    color: whitesmoke;
+}
+h1{
+    text-align: center;
+    color: rgb(238, 60, 60);
+}
+p{
+    font-weight: lighter;
+    text-transform: capitalize;
+    color: skyblue;
+}
+body{
+    background-color: rgb(36, 36, 36);
+    color: whitesmoke;
+}
+button{
+    background-color: #77210c;
+}
+a{
+    text-decoration: none;
+    color: rgb(138, 138, 185);
+}
